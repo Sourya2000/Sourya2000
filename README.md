@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sourya
-- 👀 I’m interested in Data Engineering
-- 🌱 I’m currently learning Big Data concepts and various cloud services
+- 👀 I’m interested in Data Engineering and Data Analytics.
+- 🌱 I’m currently learning Big Data principles and various cloud services
 - 💞️ I’m looking to collaborate on Big Data project ideas .
 - 📫 How to reach me ...
 
