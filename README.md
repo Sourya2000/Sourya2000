@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sourya
-- 👀 I’m interested in Data Engineering and Data Analytics.
-- 🌱 I’m currently learning Big Data principles and various cloud services
-- 💞️ I’m looking to collaborate on Big Data project ideas .
+- 👀 I’m interested in Data Analytics, Data Engineer and Backend development.
+- 🌱 I’m currently learning Django and Flask 
+- 💞️ I’m looking to collaborate on Python Backend Development projects and Data analytics projects
 - 📫 How to reach me ...
 
 Mail me at -  souryashome2000@gmail.com
