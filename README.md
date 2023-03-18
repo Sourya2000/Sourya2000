@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sourya
-- 👀 I’m interested in Data Analytics, Data Engineer and Backend development.
+- 👀 I’m interested in Data Analytics, Data Engineering and Backend development.
 - 🌱 I’m currently learning Django and Flask 
 - 💞️ I’m looking to collaborate on Python Backend Development projects and Data analytics projects
 - 📫 How to reach me ...
