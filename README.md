@@ -4,9 +4,10 @@
 - 💞️ I’m looking to collaborate on  Data analytics and Gen AI machine learning projects
 - 📫 How to reach me ...
 
-Mail me at -  souryashome2000@gmail.com
+Mail me at -  souryaovgu2024@gmail.com
 
-Let's connect via Phone call - +917980654823
+Let's connect via Phone call - +4915510541067
+Whatsapp me - +91-7980654823
  
 
 
