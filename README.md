@@ -7,8 +7,7 @@
 Mail me at -  souryaovgu2024@gmail.com
 
 Let's connect via Phone call - +4915510541067
-Whatsapp me - +91-7980654823
- 
+
 
 
 
