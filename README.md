@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sourya
 - 👀 I’m interested in  Data Analytics and Machine learning.
-- 🌱 I’m currently learning Deep learning and LLM's
+- 🌱 I’m currently learning Deep learning and Generative AI 
 - 💞️ I’m looking to collaborate on  Data analytics and Gen AI machine learning projects
 - 📫 How to reach me ...
 
